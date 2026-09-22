@@ -83,6 +83,7 @@ Build geographic visualizations.
 Identify trends and patterns through data.
 Convert analytical findings into an interactive Tableau story.
 Communicate insights through data visualization.
+
 📁 Project Structure
 Tamil-Nadu-Election-Analysis/
 │
@@ -99,10 +100,9 @@ Tamil-Nadu-Election-Analysis/
 ├── screenshots/
 │   ├── story_1_overview.png
 │   ├── story_2_regional_analysis.png
-|   └── story_3_Overall_results.png
+│   ├── story_3_overall_results.png
 │   ├── story_4_party_performance.png
-│   ├── story_5_constituency_flips.png
-│   
+│   └── story_5_constituency_flips.png
 │
 └── README.md
 🚀 Project Outcome
